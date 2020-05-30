@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">UAS 180010186 1</string>
+    <string name="id_negara">ID Negara</string>
+    <string name="nama_negara">Nama Negara</string>
+    <string name="tgl_merdeka">Tanggal Merdeka</string>
+    <string name="bendera">Bendera</string>
+    <string name="peringkat">Ranking</string>
+    <string name="Presiden">Presiden</string>
+    <string name="benua">Benua</string>
+    <string name="profil">Profil</string>
+    <string name="tambah">Tambah</string>
+    <string name="edit">Edit</string>
+    <string name="hapus">Hapus</string>
+    <string name="bagikan">Share</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_negara">Data Negara</string>
+    <string name="pilih_tgl">Pilih</string>
+</resources>
